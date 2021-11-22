@@ -21,7 +21,7 @@ export default function FlashCards() {
                     // style={{ width: '500px', height: '150px' }} /// these are optional style, it is not necessary
                     className="my-3 w-6/12 h-72"
                 >
-                    <FrontSide className="bg-white text-4xl">
+                    <FrontSide className="bg-white text-4xl cursor-pointer">
                         {def.term}                        
                     </FrontSide>
                     <BackSide className="text-gray-50 text-lg" style={{ backgroundColor: '#047857'}}>
