@@ -137,6 +137,8 @@ This is an example of how to list things you need to use the software and how to
 
 [Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app)
 
+[React Flippy](https://reactjsexample.com/flipping-cards-for-your-react-projects/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
