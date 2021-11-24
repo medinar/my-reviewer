@@ -103,6 +103,11 @@ export const definitions = [
     term: "FIHR",
     definition: "FHIR (Fast Healthcare Interoperability Resources) Specification, which is a standard for exchanging healthcare information electronically",
     link: "http://hl7.org/fhir/STU3/overview.html"
+  },
+  {
+    term: "REACT",
+    definition: "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+    link: "https://reactjs.org/"
   }
 
 ];
