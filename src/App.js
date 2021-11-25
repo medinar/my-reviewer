@@ -1,9 +1,13 @@
 import "tailwindcss/tailwind.css";
 import FlashCards from "./components/FlashCards";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <FlashCards />
+    <main>
+      <Navbar />
+      <FlashCards />
+    </main>
   );
 }
 
